@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**veydabarbosa/veydabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- badge -->
+<div>
+  <a href="https://t.me/owencael" target="_blank">
+    <img
+      height="35"
+      alt="telegram logo"
+      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+  <a href="mailto:MR-Addict@qq.com" target="_blank">
+    <img
+      height="35"
+      alt="gmail logo"
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+  <a href="https://mraddict.one" target="_blank">
+    <img
+      height="35"
+      alt="microsoft-outlook logo"
+      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+</div>
