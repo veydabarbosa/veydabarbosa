@@ -7,6 +7,7 @@
 <a href="mailto:veydaccbarbosa@gmail.com">![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/veydacbarbosa">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/veydabarbosa">![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+</div>
 
 
 <div align="left">  
