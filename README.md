@@ -1,23 +1,19 @@
-<div align="center">
-  
-## About
+<a href="mailto:veydaccbarbosa@gmail.com">📧 veydaccbarbosa@gmail.com</a>  
+<a href="https://www.linkedin.com/in/veydacbarbosa">💼 linkedin.com/in/veydacbarbosa</a>
 
+---
 
--------------------
+<a href="https://github.com/veydabarbosa/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Veyda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=veydabarbosa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</a>
 
-## Contact
-<a href="mailto:veydaccbarbosa@gmail.com">![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/veydacbarbosa">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://github.com/veydabarbosa">![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+![Veyda's GitHub stats](https://github-readme-stats.vercel.app/api?username=veydabarbosa&show_icons=true&count_private=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veydabarbosa&theme=great-gatsby&layout=compact)](https://github.com/veydabarbosa)
 
-Languages and Tools:  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-![Veyda's GitHub stats](https://github-readme-stats.vercel.app/api?username=veydabarbosa&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Veyda's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=veydabarbosa&theme=radical&include_all_commits=true&count_private=true)
-
-</div>
+### 🛠️ Ferramentas e Tecnologias
+- ☕ Java  
+- 💻 Visual Studio Code  
+- 🗄️ SQL  
+- ☁️ AWS
