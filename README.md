@@ -4,9 +4,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!+:)&center=true&width=360&height=30&pause=4000">
 </p>
 
--------------------
-
-## Contact
 <a href="mailto:veydaccbarbosa@gmail.com">![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/veydacbarbosa">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/veydabarbosa">![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
