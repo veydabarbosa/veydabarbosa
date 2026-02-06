@@ -30,15 +30,3 @@
 
 <div align="left">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=veydabarbosa&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Veyda's GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=veydabarbosa&theme=radical&include_all_commits=true&count_private=true" alt="Veyda's GitHub streak"/>
-    </td>
-  </tr>
-</table>
-
-</div>
